@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #Ubuntu
-sudo su
 cd
 apt-get update -y && apt-get install -f -y && apt-get install -y tmux
 apt-get install -y git build-essential cmake libuv1-dev libmicrohttpd-dev libssl-dev \
