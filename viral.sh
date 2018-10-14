@@ -21,7 +21,4 @@ clear
  setterm -foreground white
 clear
 
-rm -r viral.sh
-
-
 cd
