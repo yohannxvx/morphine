@@ -11,7 +11,7 @@ echo  "  XMRig CPU and GPU installer for Ubuntu 16.04"
 echo  " "
 echo  "  Created by yohannxvx"
 echo  " "
-echo  "  Installation will begin in a few moments.."
+echo  "  Installation will begin in a few seconds.."
 sleep 5 
 
 cd
