@@ -3,6 +3,8 @@
 #Created by yohannxvx
 #Tested on with Ubuntu 16.04 and Debian 8.x
 
+clear
+
 echo  "  XMRig CPU installer for Ubuntu 16.04 and Debian 8.x"
 echo  " "
 echo  "  Created by yohannxvx"
