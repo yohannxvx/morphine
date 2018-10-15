@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #XMRig CPU and GPU miner
 #Created by yohannxvx
@@ -21,5 +22,8 @@ apt-get update -y && apt-get install -f -y && apt-get install -y tmux && apt-get
 clear
  setterm -foreground white
 clear
+
+echo " "
+echo "installation success"
 
 cd
